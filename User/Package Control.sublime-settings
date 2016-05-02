@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"auto-save",
+		"Bootstrap 3 Snippets",
+		"DiffView",
+		"DocBlockr",
+		"Dracula Color Scheme",
+		"Emmet",
+		"GitGutter-Edge",
+		"GotoDocumentation",
+		"JSON Reindent",
+		"JsonTree",
+		"JumpTo",
+		"Package Control",
+		"PHP Code Coverage",
+		"Phpcs",
+		"PhpDoc",
+		"phpfmt",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"SideBarGit",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-phpcs",
+		"Theme - Piatto",
+		"Theme - Spacegray",
+		"WakaTime",
+		"Xdebug Client"
+	]
+}

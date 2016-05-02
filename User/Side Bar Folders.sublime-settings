@@ -1,0 +1,95 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				".gitignore",
+				".gitmodules"
+			],
+			"folder_exclude_patterns":
+			[
+				".idea",
+				"nbproject"
+			],
+			"follow_symlinks": true,
+			"path": "/var/www/versa_alianca"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/versa/repositorys-versaskeleton/versaspine"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/versa/repositorys-versaskeleton/pessoa"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/versa/repositorys-versaskeleton/layout"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/versa/repositorys-versaskeleton/gerenciador-arquivo"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/versa/repositorys-versaskeleton/acesso"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/versa/repositorys-versaskeleton"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/versa/projects-versaskeleton/gestaoensino"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/versa/projects-versaskeleton/gestao-ensino"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/versa/projects-versaskeleton/fadivale/public/img"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/versa/projects-versaskeleton/fadivale/module/Acesso"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/versa/projects-versaskeleton/fadivale/module"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/versa/projects-versaskeleton/fadivale"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/versa/notalegal"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/versa/franbom"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/Projects/franbom"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/html/Angular-js"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/git-bck/pessoa"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/Angular-js"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/alianca"
+		}
+	]
+}
